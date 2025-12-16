@@ -39,7 +39,7 @@ Displaying both scenarios side-by-side helps users clearly understand the impact
   1. Modular program design
   2. Debugging compiler and linker errors
 
-Translating real-world requirements into working code
+# Translating real-world requirements into working code
 
   1. Writing readable, maintainable C++
   2. Managing multi-file projects in a professional environment
